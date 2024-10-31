@@ -1,0 +1,111 @@
+# Copyright (C) 2014 Admin Menu
+# This file is distributed under the same license as the Admin Menu package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin Menu 6.5 dev\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/sem-admin-menu\n"
+"POT-Creation-Date: 2014-04-22 15:46:44+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: sem-admin-menu-admin.php:109
+msgid "Settings saved."
+msgstr ""
+
+#: sem-admin-menu-admin.php:128
+msgid "Admin Menu Settings"
+msgstr ""
+
+#: sem-admin-menu-admin.php:136
+msgid "Always On"
+msgstr ""
+
+#: sem-admin-menu-admin.php:148
+msgid "Display a menu bar with a login link when I am logged out."
+msgstr ""
+
+#: sem-admin-menu-admin.php:157
+msgid "Save Changes"
+msgstr ""
+
+#. #-#-#-#-#  sem-admin-menu.pot (Admin Menu 6.5 dev)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: sem-admin-menu-info.php:2 sem-admin-menu.php:447 sem-admin-menu.php:448
+msgid "Admin Menu"
+msgstr ""
+
+#. #-#-#-#-#  sem-admin-menu.pot (Admin Menu 6.5 dev)  #-#-#-#-#
+#. Description of the plugin/theme
+#: sem-admin-menu-info.php:3
+msgid ""
+"Adds a convenient admin menu to your blog. Configure its visibility under <a "
+"href=\"options-general.php?page=admin-menu\">Settings / Admin Menu</a>."
+msgstr ""
+
+#: sem-admin-menu.php:224
+msgid "Register"
+msgstr ""
+
+#: sem-admin-menu.php:234
+msgid "Login"
+msgstr ""
+
+#: sem-admin-menu.php:248
+msgid "New Post"
+msgstr ""
+
+#: sem-admin-menu.php:276
+msgid "New Page"
+msgstr ""
+
+#: sem-admin-menu.php:290 sem-admin-menu.php:297
+msgid "Manage"
+msgstr ""
+
+#: sem-admin-menu.php:306
+msgid "Comments"
+msgstr ""
+
+#: sem-admin-menu.php:322
+msgid "Themes"
+msgstr ""
+
+#: sem-admin-menu.php:330
+msgid "Widgets"
+msgstr ""
+
+#: sem-admin-menu.php:340
+msgid "Plugins"
+msgstr ""
+
+#: sem-admin-menu.php:349
+msgid "Settings"
+msgstr ""
+
+#: sem-admin-menu.php:359
+msgid "Dashboard"
+msgstr ""
+
+#: sem-admin-menu.php:366
+msgid "Profile"
+msgstr ""
+
+#: sem-admin-menu.php:376
+msgid "Logout"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.semiologic.com/software/admin-menu/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Denis de Bernardy & Mike Koepke"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.getsemiologic.com"
+msgstr ""
